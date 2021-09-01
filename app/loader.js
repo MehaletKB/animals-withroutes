@@ -1,3 +1,4 @@
+// initializes any kind of services that we need
 import { MongoClient } from "mongodb";
 import config from "./config.js";
 
